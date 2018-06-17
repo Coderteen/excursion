@@ -1,0 +1,17 @@
+body  {
+      text-align: center;
+      background-color: black;
+}
+
+.links {
+      color: aquamarine;
+      font-size: 16px;
+}
+
+.title {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px:
+  color: white;
+  text-align: center;
+}
